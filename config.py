@@ -1,4 +1,4 @@
 Dataset_Path = dict(
-    CULane = "/home/lion/Dataset/CULane/data/CULane",
-    Tusimple = "/home/lion/Dataset/tusimple"
+    CULane = "/data/CULane",
+    # Tusimple = "/data/TuSimple/TUSimple/train_set"
 )
